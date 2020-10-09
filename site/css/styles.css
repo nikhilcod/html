@@ -413,3 +413,30 @@ h3.certificate-item-title {
 }
 }
   /* End Header */
+  .form {
+    background-color: rgb(3, 35, 36);
+    text-decoration: none;
+    width: fit-content;
+    padding: 23px;
+    margin: auto;
+    font-size: 16px;
+    border: solid rgb(128, 119, 0) 10px;
+    
+  }
+  
+  button {
+    background-color: burlywood;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    color: brown;
+    border: solid white 4px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+  }
+  
+  button:hover {
+    background-color:rgb(66, 3, 66);
+    color: white;
+  }
